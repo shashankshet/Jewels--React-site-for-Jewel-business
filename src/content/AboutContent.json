@@ -1,16 +1,7 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Let your style shine",
+  "text": "The jewelry collection of the world-renowned brands is always exclusive and timeless. Whether you are looking for a beautiful diamond, an exquisite piece of gold or a unique pearl: The selection of the most popular jewelry destinations is always worth a look.",
   "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
+    
   ]
 }
