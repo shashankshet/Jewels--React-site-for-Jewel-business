@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Jewels--React-site-for-Jewel-business/static/css/main.0670f8d9.css",
+    "main.js": "/Jewels--React-site-for-Jewel-business/static/js/main.ff1b1f3d.js",
+    "static/js/612.6394c9dc.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/612.6394c9dc.chunk.js",
+    "static/js/609.5f104921.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/609.5f104921.chunk.js",
+    "static/js/281.e98bea78.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/281.e98bea78.chunk.js",
+    "static/js/333.011b86dd.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/333.011b86dd.chunk.js",
+    "static/js/326.52cb48d3.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/326.52cb48d3.chunk.js",
+    "static/js/116.04fcc39e.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/116.04fcc39e.chunk.js",
+    "static/js/110.c34d3349.chunk.js": "/Jewels--React-site-for-Jewel-business/static/js/110.c34d3349.chunk.js",
+    "index.html": "/Jewels--React-site-for-Jewel-business/index.html",
+    "main.0670f8d9.css.map": "/Jewels--React-site-for-Jewel-business/static/css/main.0670f8d9.css.map",
+    "main.ff1b1f3d.js.map": "/Jewels--React-site-for-Jewel-business/static/js/main.ff1b1f3d.js.map",
+    "612.6394c9dc.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/612.6394c9dc.chunk.js.map",
+    "609.5f104921.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/609.5f104921.chunk.js.map",
+    "281.e98bea78.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/281.e98bea78.chunk.js.map",
+    "333.011b86dd.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/333.011b86dd.chunk.js.map",
+    "326.52cb48d3.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/326.52cb48d3.chunk.js.map",
+    "116.04fcc39e.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/116.04fcc39e.chunk.js.map",
+    "110.c34d3349.chunk.js.map": "/Jewels--React-site-for-Jewel-business/static/js/110.c34d3349.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0670f8d9.css",
+    "static/js/main.ff1b1f3d.js"
+  ]
+}
