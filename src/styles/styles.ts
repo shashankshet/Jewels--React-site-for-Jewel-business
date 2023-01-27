@@ -57,7 +57,7 @@ export const Styles = createGlobalStyle`
     h4,
     h5,
     h6 {
-        font-family: 'MV Boli', serif;
+        font-family: 'Garamond', serif;
         color: #010000;
         font-size: 56px;
         line-height: 1.18;
