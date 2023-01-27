@@ -12,6 +12,7 @@ import {
   MinPara,
 } from "./styles";
 
+
 const LeftContentBlock = ({
   icon,
   title,

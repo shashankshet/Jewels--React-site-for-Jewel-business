@@ -3,6 +3,8 @@ import { withTranslation } from "react-i18next";
 import { Slide } from "react-awesome-reveal";
 import { Button } from "../../common/Button";
 import { MiddleBlockSection, Content, ContentWrapper } from "./styles";
+import { SvgIcon } from "../../common/SvgIcon";
+import Container from "../../common/Container";
 
 interface MiddleBlockProps {
   title: string;
